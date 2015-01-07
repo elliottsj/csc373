@@ -1,4 +1,4 @@
-CSC373
+[CSC373](http://csc373.elliottsj.com/)
 ======
 
 A [GitBook][gitbook] containing a collection of notes for [CSC373H1S][csc373] in 2015.
